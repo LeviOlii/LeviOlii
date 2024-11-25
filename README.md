@@ -8,7 +8,7 @@
 <p>
  Olá 👋, me chamo Levi, tenho 19 anos, sou amante de tecnologia e estudante de computação.
 
-  - 🌱 Atualmente, estou no 3° semestre do curso de Engenharia de Computação e faço um curso complementar de Pacote Office.
+  - 🌱 Atualmente, estou no 4° semestre do curso de Engenharia de Computação e faço um curso complementar de Pacote Office.
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego ou estágio na área de tecnologia.
 </p>
