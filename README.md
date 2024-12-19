@@ -23,7 +23,8 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Java - Jogo Space Shooter 2D](https://github.com/LeviOlii/arcade_copia)
+- [Java - Space Shooter Game 2D](https://github.com/LeviOlii/arcade_copia)
+- [Projeto Front-End - Jogo da Memória com temática do Mário_](https://github.com/LeviOlii/proj-jogo_da_memoria)
 
 <!-- GIF -->
 <p align="left">
@@ -39,6 +40,9 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg">
+    <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
+
   </div>
   
   <!-- Skills: Tools & Frameworks -->
