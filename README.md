@@ -25,6 +25,7 @@
 ## Portfolio:
 - [Java - Space Shooter Game 2D](https://github.com/LeviOlii/arcade_copia)
 - [Projeto Front-End - Jogo da Memória com temática do Mário_](https://github.com/LeviOlii/proj-jogo_da_memoria)
+- [Equilibrium - Site de atendimento psicológico com Front-End e Back-End](https://github.com/LeviOlii/Equilibrium/tree/main)
 
 <!-- GIF -->
 <p align="left">
