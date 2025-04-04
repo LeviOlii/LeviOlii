@@ -8,7 +8,7 @@
 <p>
  Olá 👋, me chamo Levi, tenho 20 anos, sou amante de tecnologia e estudante de computação.
 
-  - 🌱 Atualmente, estou no 4° semestre do curso de Engenharia de Computação e estudante de desenvolvimento fullstack.
+  - 🌱 Atualmente, estou no 5° semestre do curso de Engenharia de Computação e estudante de desenvolvimento fullstack.
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego ou estágio na área de tecnologia.
 </p>
