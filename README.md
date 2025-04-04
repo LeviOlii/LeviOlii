@@ -42,7 +42,6 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg">
-    <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
 
   </div>
   
@@ -50,7 +49,15 @@
   <div style="flex-basis: 48%;">
     <h3>Ferramentas</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Eclipse" height="30" width="40" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Axios" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain-wordmark.svg">
+    <img align="center" alt="Express" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg">
+    <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Insomnia" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/insomnia/insomnia-original.svg">
+
     
   </div>
   
