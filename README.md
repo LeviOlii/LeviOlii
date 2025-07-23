@@ -26,6 +26,7 @@
 - [Java - Space Shooter Game 2D](https://github.com/LeviOlii/arcade_copia)
 - [Projeto Front-End - Jogo da Memória com temática do Mário_](https://github.com/LeviOlii/proj-jogo_da_memoria)
 - [Equilibrium - Site de atendimento psicológico com Front-End e Back-End](https://github.com/LeviOlii/Equilibrium/tree/main)
+- [Projeto Back-End - API de Gerenciamento de Documentos](https://github.com/LeviOlii/documents-api-challenge)
 
 <!-- GIF -->
 <p align="left">
