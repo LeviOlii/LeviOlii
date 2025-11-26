@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
- Olá 👋, me chamo Levi, tenho 20 anos, sou amante de tecnologia e estudante de computação.
+ Olá 👋, me chamo Levi, tenho 21 anos, sou amante de tecnologia e estudante de computação.
 
   - 🌱 Atualmente, estou no 6° semestre do curso de Engenharia de Computação e estudante de desenvolvimento fullstack.
 
